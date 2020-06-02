@@ -133,3 +133,9 @@ id,file_path,emotion,glasses_actual
 132,emotion_pics\sad\datasets_99505_234911_images_train_sad_11068.jpg,sad,1
 133,emotion_pics\sad\datasets_99505_234911_images_train_sad_11182.jpg,sad,1
 134,emotion_pics\sad\datasets_99505_234911_images_train_sad_12050.jpg,sad,1
+135,emotion_pics\surprise\datasets_99505_234911_images_train_surprise_10227.jpg,surprise,1
+136,emotion_pics\surprise\datasets_99505_234911_images_train_surprise_1135.jpg,surprise,1
+137,emotion_pics\surprise\datasets_99505_234911_images_train_surprise_11433.jpg,surprise,1
+138,emotion_pics\surprise\datasets_99505_234911_images_train_surprise_11459.jpg,surprise,1
+139,emotion_pics\surprise\datasets_99505_234911_images_train_surprise_11668.jpg,surprise,1
+140,emotion_pics\surprise\datasets_99505_234911_images_train_surprise_12135.jpg,surprise,0
